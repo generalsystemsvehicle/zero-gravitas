@@ -1,0 +1,166 @@
+{
+    "data": {
+        "user": {
+            "id": "184008bd-78fd-4463-9e4a-c3334b872f68",
+            "email": "184008bd-78fd-4463-9e4a-c3334b872f68@example.com",
+            "first_name": "Alfred",
+            "last_name": "Skiles",
+            "current_position_name": "*****",
+            "current_organization_name": "*****",
+            "confirmed": true,
+            "photo": null,
+            "photo_url": null,
+            "url": "https://www.youracclaim.com/users/alfred-skiles"
+        },
+        "created_by": {
+            "type": "Organization",
+            "id": "ee9ff4d9-9120-48e5-90a5-138ead443d41",
+            "name": "Organization 3",
+            "url": "https://api.youracclaim.com/v1/organizations/ee9ff4d9-9120-48e5-90a5-138ead443d41",
+            "vanity_url": "https://www.youracclaim.com/org/organization-3",
+            "verified": true
+        },
+        "issuer": {
+            "summary": "issued by Organization 3",
+            "entities": [
+                {
+                    "label": "Issued by",
+                    "primary": true,
+                    "entity": {
+                        "type": "Organization",
+                        "id": "ee9ff4d9-9120-48e5-90a5-138ead443d41",
+                        "name": "Organization 3",
+                        "url": "https://api.youracclaim.com/v1/organizations/ee9ff4d9-9120-48e5-90a5-138ead443d41",
+                        "vanity_url": "https://www.youracclaim.com/org/organization-3",
+                        "verified": true
+                    }
+                }
+            ]
+        },
+        "printing_enabled": false,
+        "print_method": null,
+        "badge_template": {
+            "id": "43aaea02-e847-44b8-a4d6-a7e69bfebf1f",
+            "allow_duplicate_badges": true,
+            "cost": null,
+            "description": "Dynamically deliver go forward e-tailers",
+            "global_activity_url": "https://www.example.com/foo",
+            "level": null,
+            "lock_badge_state": false,
+            "name": "Badge Template 2",
+            "state": "active",
+            "public": true,
+            "badges_count": 0,
+            "recipient_type": "User",
+            "show_badge_lmi": false,
+            "show_lmi_jobs": false,
+            "show_skill_tag_links": true,
+            "vanity_slug": "badge-template-2",
+            "record_to_blockchain": null,
+            "time_to_earn": null,
+            "type_category": null,
+            "printing_disabled": false,
+            "visibility": "public",
+            "criteria_url_name": null,
+            "criteria_url": null,
+            "certification": true,
+            "state_updated_at": null,
+            "created_at": "2014-04-01T14:41:00.000Z",
+            "updated_at": "2014-04-01T14:41:00.000Z",
+            "show_template_settings": false,
+            "get_issue_count": 0,
+            "image": {
+                "id": "c4f9be0b-bcb6-4d5b-815e-6b57ce1187ec",
+                "url": "https://cdn.example.com/path/to/image.png"
+            },
+            "image_url": "https://cdn.example.com/path/to/image.png",
+            "url": "https://localhost/org/organization-3/badge/badge-template-2",
+            "owner": {
+                "type": "Organization",
+                "id": "ee9ff4d9-9120-48e5-90a5-138ead443d41",
+                "name": "Organization 3",
+                "enable_blockchain": false,
+                "url": "https://api.youracclaim.com/v1/organizations/ee9ff4d9-9120-48e5-90a5-138ead443d41",
+                "vanity_url": "https://localhost/org/organization-3",
+                "vanity_slug": "organization-3",
+                "verified": true,
+                "viewable": true
+            },
+            "alignments": [
+                {
+                    "id": "bea03e89-0ffe-4f2a-80b7-4884881fce28",
+                    "name": "Alignment 2",
+                    "url": "http://www.example.com/alignment",
+                    "description": "Self-enabling cohesive task-force"
+                }
+            ],
+            "recommendations": [
+                {
+                    "id": "2af89b7e-29b9-4c8b-ae42-32d19d56a1b3",
+                    "title": "Recommendation Title",
+                    "type": "information",
+                    "activity_url": "http://www.example.com/recommendation"
+                }
+            ],
+            "required_badge_templates": [
+
+            ],
+            "badge_template_activities": [
+                {
+                    "id": "8f843d36-e076-4d4b-8a38-cc462e1dd098",
+                    "title": "Kickboxing Activity",
+                    "activity_type": "Schedule / Registration",
+                    "activity_url": "http://www.example.com/awesomepage",
+                    "required_badge_template_id": null
+                }
+            ],
+            "skills": [
+                "Skill 2"
+            ]
+        },
+        "id": "7c7f7e1f-62a1-44e0-bf66-83891376807b",
+        "issued_to": "Alfred Skiles",
+        "issued_to_first_name": "Alfred",
+        "issued_to_last_name": "Skiles",
+        "issuer_earner_id": null,
+        "locale": "en",
+        "public": true,
+        "recipient_email": "user10001@example.com",
+        "replacement_badge_id": null,
+        "replaces_badge_id": null,
+        "revocation_reason": "Check bounced",
+        "state": "revoked",
+        "suppress_badge_notification_email": false,
+        "updated_at": "2014-04-01T14:41:00.000Z",
+        "country": "United States",
+        "state_or_province": "Minnesota",
+        "created_at": "2014-04-01T14:41:00.000Z",
+        "expires_at": "2016-04-01T14:41:00.000Z",
+        "expires_at_date": "2016-04-01",
+        "issued_at": "2014-04-01T14:41:00.000Z",
+        "issued_at_date": "2014-04-01",
+        "state_updated_at": "2014-04-01T14:41:00.000Z",
+        "image": {
+            "id": "c4f9be0b-bcb6-4d5b-815e-6b57ce1187ec",
+            "url": "https://cdn.example.com/path/to/image.png"
+        },
+        "image_url": "https://cdn.example.com/path/to/image.png",
+        "alignments": [
+            {
+                "name": "Alignment 2",
+                "description": "Self-enabling cohesive task-force"
+            }
+        ],
+        "evidence": [
+            {
+                "id": "a3b1477d-f79f-4176-93db-3e73c2f2cf5c",
+                "type": "UrlEvidence",
+                "name": "Acclaim",
+                "description": "Description in URL evidence is optional",
+                "value": "http://www.example.com/path-to-earner-specific-evidence"
+            }
+        ]
+    },
+    "metadata": {
+    }
+}

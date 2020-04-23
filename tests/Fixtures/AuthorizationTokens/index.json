@@ -1,0 +1,19 @@
+{
+    "data": [
+        {
+            "id": "6dac84e3-7283-41f8-9acb-2b2af277df00",
+            "token": "XXwJArBw8J6aJezzluJSzCn_UFzg1DayuwlJ",
+            "owner_id": "d209cec5-7b8d-45b2-8474-b01d977801df",
+            "description": null,
+            "created_at": "2014-04-01T14:41:00.000Z",
+            "owner": {
+                "type": "Organization",
+                "id": "d209cec5-7b8d-45b2-8474-b01d977801df",
+                "name": "Organization 1340",
+                "url": "https://api.youracclaim.com/v1/organizations/d209cec5-7b8d-45b2-8474-b01d977801df"
+            }
+        }
+    ],
+    "metadata": {
+    }
+}

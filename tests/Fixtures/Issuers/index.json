@@ -1,0 +1,43 @@
+{
+    "data": [
+        {
+            "id": "99f39b22-f58e-40d0-8193-db2f7b73a3cb",
+            "authorization_type": "platform",
+            "display_issuer_as": "grantor",
+            "restrict_by_badge_templates": false,
+            "issuer": {
+                "type": "Organization",
+                "id": "d5572648-04e4-41c3-97fc-9de49e457314",
+                "name": "Organization 2",
+                "url": "http://www.example.com/",
+                "badge_template_count": 0,
+                "photo": {
+                    "id": "7c5e4b37-12ea-425c-b376-d26ef6676b25",
+                    "url": "https://cdn.example.com/path/to/image.png"
+                },
+                "photo_url": "https://cdn.example.com/path/to/image.png"
+            },
+            "grantor": {
+                "type": "Organization",
+                "id": "b225efad-7819-4276-8f2c-44cab33273f5",
+                "name": "Organization 3",
+                "url": "http://www.example.com/",
+                "badge_template_count": 0,
+                "photo": {
+                    "id": "4c3de057-b4e0-4c4e-8d0b-5f1904315e98",
+                    "url": "https://cdn.example.com/path/to/image.png"
+                },
+                "photo_url": "https://cdn.example.com/path/to/image.png"
+            }
+        }
+    ],
+    "metadata": {
+        "count": 1,
+        "current_page": 1,
+        "total_count": 1,
+        "total_pages": 1,
+        "per": 50,
+        "previous_page_url": null,
+        "next_page_url": null
+    }
+}

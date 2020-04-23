@@ -1,0 +1,42 @@
+{
+    "data": {
+        "id": "89fbdc61-19c5-48e4-90c3-d14ab54dc3e5",
+        "name": "Example Organization",
+        "website_url": "https://www.example.com",
+        "webhook_url": "https://example.com/webhook_endpoint",
+        "contact_email": "info@example.com",
+        "technical_contact_email": "person16@example.com",
+        "zip_or_postal_code": "55437",
+        "organization_type": "Auto Parts Reseller",
+        "bio": "Since 1994",
+        "twitter_url": "https://twitter.com/example",
+        "vanity_slug": "organization-16",
+        "facebook_url": "https://www.facebook.com/example",
+        "linked_in_url": "https://www.linkedin.com/example",
+        "city": "Bloomington",
+        "address": "1313 Mockingbird Lane",
+        "primary_hex_color": null,
+        "support_email": "someEmail@example.com",
+        "support_url": "https://example.com",
+        "allowed_webhooks": [],
+        "enable_blockchain": false,
+        "print_method": null,
+        "pdf_id": null,
+        "linkedin_a2p_url": null,
+        "location": "1313 Mockingbird Lane Bloomington Minnesota 55437 United States",
+        "country": "United States",
+        "state_or_province": "Minnesota",
+        "created_at": "2014-04-01T14:41:00.000Z",
+        "updated_at": "2014-04-01T14:41:00.000Z",
+        "vanity_url": "https://localhost/org/organization-16",
+        "verified_at": "2018-04-08T17:57:34.595Z",
+        "verified": true,
+        "photo": {
+            "id": "d9d863e9-e87b-4cc0-ade4-474b8313853f",
+            "url": "/system/test/images/d9d863e9-e87b-4cc0-ade4-474b8313853f/large_fake-600x600.png"
+        },
+        "photo_url": "https://cdn.example.com/path/to/image.png"
+    },
+    "metadata": {
+    }
+}

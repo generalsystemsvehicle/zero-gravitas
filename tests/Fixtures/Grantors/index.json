@@ -1,0 +1,28 @@
+{
+    "data": [
+        {
+            "id": "91ce80cb-7c43-437e-b0b8-2298dc084287",
+            "grantor": {
+                "type": "Organization",
+                "id": "30612748-d0b6-473f-8a77-356b79147569",
+                "name": "Organization 1",
+                "url": "http://www.example.com/",
+                "badge_template_count": 0,
+                "photo": {
+                    "id": "7c5e4b37-12ea-425c-b376-d26ef6676b25",
+                    "url": "https://cdn.example.com/path/to/image.png"
+                },
+                "photo_url": "https://cdn.example.com/path/to/image.png"
+            }
+        }
+    ],
+    "metadata": {
+        "count": 1,
+        "current_page": 1,
+        "total_count": 1,
+        "total_pages": 1,
+        "per": 50,
+        "previous_page_url": null,
+        "next_page_url": null
+    }
+}

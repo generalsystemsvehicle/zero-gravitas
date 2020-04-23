@@ -1,0 +1,10 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "email": "info@youracclaim.com",
+    "description": "Function-based eco-centric standardization gurus",
+    "id": "https://api.youracclaim.com/v1/obi/v2/issuers/e483968b-1ceb-4434-8258-b4518d078f9d",
+    "image": "https://cdn.example.com/path/to/image.png",
+    "name": "Organization 4",
+    "type": "Issuer",
+    "url": "http://www.example.com/"
+}

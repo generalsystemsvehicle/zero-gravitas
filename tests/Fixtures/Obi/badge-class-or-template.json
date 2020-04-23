@@ -1,0 +1,36 @@
+{
+    "@context": "https://w3id.org/openbadges/v2",
+    "criteria": {
+        "@context": "https://w3id.org/openbadges/v2",
+        "id": "https://api.youracclaim.com/v1/org/organization-6/badge/badge-template-1",
+        "narrative": "Schedule / Registration: Kickboxing Activity http://www.example.com/awesomepage"
+    },
+    "description": "Dynamically deliver go forward e-tailers",
+    "id": "https://api.youracclaim.com/v1/obi/v2/issuers/12b808a7-249d-42fe-a63d-30ffba7bb1fb/badge_classes/670dcefd-e914-4707-9691-80496ee60360",
+    "image": {
+        "@context": "https://w3id.org/openbadges/v2",
+        "id": "https://cdn.example.com/path/to/image.png"
+    },
+    "name": "Badge Template 3",
+    "issuer": {
+        "@context": "https://w3id.org/openbadges/v2",
+        "description": "Function-based eco-centric standardization gurus",
+        "email": "info@youracclaim.com",
+        "id": "https://api.youracclaim.com/v1/obi/v2/issuers/a0a2264a-84a6-4d20-a034-d4d58c528f11",
+        "image": "https://cdn.example.com/path/to/image.png",
+        "name": "Organization 6",
+        "type": "Profile",
+        "url": "http://www.example.com/"
+    },
+    "alignment": [
+        {
+            "targetDescription": "Self-enabling cohesive task-force",
+            "targetName": "Alignment 3",
+            "targetUrl": "http://www.example.com/alignment"
+        }
+    ],
+    "tags": [
+        "Skill 3"
+    ],
+    "type": "BadgeClass"
+}
