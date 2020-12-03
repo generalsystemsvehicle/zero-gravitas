@@ -2,8 +2,6 @@
 
 namespace GeneralSystemsVehicle\Acclaim\Api;
 
-use GuzzleHttp\Client;
-use Illuminate\Support\Arr;
 use GeneralSystemsVehicle\Acclaim\Guzzle\Api;
 
 class Obi extends Api
